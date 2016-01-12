@@ -39,6 +39,14 @@
 * [ritzyed/ritzy · GitHub](https://github.com/ritzyed/ritzy)
 * [xwiki-contrib/chainpad · GitHub](https://github.com/xwiki-contrib/chainpad)
 
+### Ref
+* [Document Object Model Range](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html)
+* [UndoManager and DOM Transaction](https://dvcs.w3.org/hg/undomanager/raw-file/tip/undomanager.html)
+* [HTML5 - editing](http://www.w3.org/TR/html5/editing.html#editing-0)
+* [HTML Editing APIs](https://dvcs.w3.org/hg/editing/raw-file/tip/editing.html)
+
+
+
 
 ## Code Editor
 
