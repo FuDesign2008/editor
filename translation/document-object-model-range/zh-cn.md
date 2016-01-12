@@ -54,9 +54,9 @@
 (selection), 在某些情况下, 也未必对应单单一个逻辑选区(selection), 因此, 可能由
 一个以上的`Range`来表示.
 
-`Range`接口提供了一些方法用于获取和操作文档树. 这些方法比Node接口提供的类似
+`Range`接口提供了一些方法用于获取和操作文档树. 这些方法比`Node`接口提供的类似
 方法更高级, 除了`Range`接口提供用于插入内容, 删除内容和复制内容的方法可以直
-接映射至DOM Core的一系列Node操作. 从某种意义上说, `Range`的操作可以看做是实
+接映射至DOM Core的一系列`Node`操作. 从某种意义上说, `Range`的操作可以看做是实
 现优化常见编辑形式的便捷方法.
 
 该章节表述`Range`接口, 包含创建与移动`Range`的方法和操作`Range`内容
@@ -161,7 +161,7 @@ readonly  attribute long endOffset;
 内容之前. 换句话说, 每个边界点的容器是`Document`节点且在`Document`节点中的偏移量为0.
 (TODO: 这可能是编辑器focus时位置不对的根本原因)
 
-像`Document`接口里其他方法创建的对象(如Node和`DocumentFragment`对象)类型, 通过某一
+像`Document`接口里其他方法创建的对象(如`Node`和`DocumentFragment`对象)类型, 通过某一
 特定文档实例创建的`Range`对象只能选取与该文档实例相关的`Document`, `DocumentFragment`
 和Attr对象. 该类`Range`对象不能被其他文档实例使用.
 
