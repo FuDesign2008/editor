@@ -38,6 +38,7 @@
     - [Operational-Transformation/ot.js · GitHub](https://github.com/Operational-Transformation/ot.js/)
 * [ritzyed/ritzy · GitHub](https://github.com/ritzyed/ritzy)
 * [xwiki-contrib/chainpad · GitHub](https://github.com/xwiki-contrib/chainpad)
+* [dropbox/hackpad · GitHub](https://github.com/dropbox/hackpad)
 
 ### Ref
 * [Document Object Model Range](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html)
@@ -84,4 +85,6 @@
 ## Ref
 1. https://github.com/search?l=JavaScript&o=desc&q=editor&s=stars&type=Repositories&utf8=%E2%9C%93
 1. https://github.com/search?l=JavaScript&p=4&q=Collaborative+editor&type=Repositories&utf8=%E2%9C%93
+1. [Javascript Online Rich Text Editors | Comparison tables - SocialCompare](http://socialcompare.com/en/comparison/javascript-online-rich-text-editors)
+1. [comparisons/JavaScript-WYSIWYG-editors.md at master · iDoRecall/comparisons · GitHub](https://github.com/iDoRecall/comparisons/blob/master/JavaScript-WYSIWYG-editors.md)
 
