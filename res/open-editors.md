@@ -11,6 +11,7 @@
 * [有哪些介绍编辑器技术的书籍或论文？ - 文本编辑器 - 知乎](https://www.zhihu.com/question/34597700)
 
 ## Rich Text Editor
+* [CKEditor](http://ckeditor.com/)
 * UEditor
 * KindEditor
 * [quilljs/quill · GitHub](https://github.com/quilljs/quill)
@@ -26,6 +27,10 @@
 * [bergie/hallo · GitHub](https://github.com/bergie/hallo)
 * [mycolorway/simditor · GitHub](https://github.com/mycolorway/simditor)
 * [wangfupeng1988/wangEditor · GitHub](https://github.com/wangfupeng1988/wangEditor/)
+* https://github.com/jejacks0n/mercury
+* [jHtmlArea](http://pietschsoft.com/demo/jhtmlarea/)
+* [NicEdit](http://nicedit.com/index.php)
+* [Raptor Editor](https://www.raptoreditor.com/)
 
 ### 非 contenteditable
 * [alohaeditor/Aloha-Editor · GitHub](https://github.com/alohaeditor/Aloha-Editor)
@@ -53,6 +58,7 @@
 
 * [ace](https://github.com/ajaxorg/ace)
 * [Code Mirror](https://github.com/codemirror/CodeMirror)
+* [MarkItUp](http://markitup.jaysalvat.com/home/)
 
 
 ### Markdown Editor
@@ -73,6 +79,11 @@
 
 ## iOS
 * [cjwirth/RichEditorView · GitHub](https://github.com/cjwirth/RichEditorView)
+* https://github.com/aryaxt/iOS-Rich-Text-Editor
+* https://github.com/nnhubbard/ZSSRichTextEditor
+
+### Ref
+* [Rich Text Editing : A Simple Start (Part 1) - iOS-Blog](http://ios-blog.co.uk/tutorials/rich-text-editing-a-simple-start-part-1/)
 
 
 ## Mac
