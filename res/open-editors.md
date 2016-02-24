@@ -44,6 +44,11 @@
 * [ritzyed/ritzy · GitHub](https://github.com/ritzyed/ritzy)
 * [xwiki-contrib/chainpad · GitHub](https://github.com/xwiki-contrib/chainpad)
 * [dropbox/hackpad · GitHub](https://github.com/dropbox/hackpad)
+* [GitHub - share/ShareJS: Collaborative editing in any app](https://github.com/share/ShareJS)
+* [GitHub - Operational-Transformation/ot.js](https://github.com/Operational-Transformation/ot.js/)
+
+#### 理论
+* [Understanding and Applying Operational Transformation - Code Commit](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
 
 ### Ref
 * [Document Object Model Range](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113/ranges.html)
