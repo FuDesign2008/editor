@@ -32,6 +32,7 @@
 * [NicEdit](http://nicedit.com/index.php)
 * [Raptor Editor](https://www.raptoreditor.com/)
 * [GitHub - facebook/draft-js: A React framework for building text editors.](https://github.com/facebook/draft-js)
+    - https://facebook.github.io/draft-js/docs/overview.html
 
 ### 非 contenteditable
 * [alohaeditor/Aloha-Editor · GitHub](https://github.com/alohaeditor/Aloha-Editor)
