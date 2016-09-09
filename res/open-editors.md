@@ -36,6 +36,13 @@
 
 ### 非 contenteditable
 * [alohaeditor/Aloha-Editor · GitHub](https://github.com/alohaeditor/Aloha-Editor)
+* Google Docs
+    - 支持协同
+* [GitHub - ritzyed/ritzy: Collaborative web-based rich text editor](https://github.com/ritzyed/ritzy)
+    - 支持协同
+
+#### 理论
+* [Google Drive Blog: Whats different about the new Google Docs?](https://drive.googleblog.com/2010/05/whats-different-about-new-google-docs.html)
 
 
 ### 协同
